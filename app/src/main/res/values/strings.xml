@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SmartStreetLight</string>
+
+
+    <string-array name="fromstation">
+        <item>Vidisha</item>
+        <item>Betwa Cabin</item>
+        <item>Sanchi</item>
+        <item>Salamatpur</item>
+        <item>DewanGanj</item>
+    </string-array>
+
+    <string-array name="tostation">
+        <item>Vidisha</item>
+        <item>Betwa Cabin</item>
+        <item>Sanchi</item>
+        <item>Salamatpur</item>
+        <item>DewanGanj</item>
+    </string-array>
+</resources>
