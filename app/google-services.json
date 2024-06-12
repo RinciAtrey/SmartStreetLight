@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "679425196654",
+    "firebase_url": "https://smart-highwaylight-system-default-rtdb.firebaseio.com",
+    "project_id": "smart-highwaylight-system",
+    "storage_bucket": "smart-highwaylight-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679425196654:android:2944079c3b5d0ed6bc9c7f",
+        "android_client_info": {
+          "package_name": "com.app.smartstreetlight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJGrgWRmd1zrJ6NwRjLwSEeVc1QxWe3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
